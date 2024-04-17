@@ -1,0 +1,33 @@
+li{
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.html{
+    color: red;
+}
+
+.css{
+    color: blue;
+}
+
+.js{
+    color: green;
+}
+
+
+/* #html{
+    font-size: 32px;
+}
+
+#css{
+    font-size: 32px;
+}
+
+#js{
+    font-size: 32px;
+} */
+
+[class]{
+    background-color: green;
+}
